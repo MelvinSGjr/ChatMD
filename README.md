@@ -1,6 +1,6 @@
 # ChatMD
 
-Hey! I'm MelvinSGjr — the shy Linux (Alpine!) nerd who made this. I grew up in Brazil, but my roots are in Romania. This is my terminal chat app for everyone who loves minimalism, the shell, and a bit of fun.
+Hey! I'm MelvinSGjr — the Linux (Alpine!) nerd who made this. I grew up in Brazil, but my roots are in Romania. This is my terminal chat app for everyone who loves minimalism, the shell, and a bit of fun.
 
 ## What is this?
 ChatMD is a simple, terminal-based chat you can run anywhere Ruby works. You can:
